@@ -1,8 +1,9 @@
 ### hi!!! i'm natalie!!
 
-```☆ | about me !! 
+>>**☆ | about me !!** 
+
 i'm a current second year studying mathematics and economics!! i'm also a huge lover of cats, photography, birdwatching, astrology, and couture fashion (addicted to vogue).  
-```
+
 >>**☆ | i'm currently learning !!**
 
 ruby + java
